@@ -1,3 +1,5 @@
 Code added
+<<<<<<< HEAD
 code added 2
 code added 3
+test 2 added
